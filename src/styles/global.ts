@@ -27,7 +27,7 @@ export const globalStyle = css`
     justify-content: center;
     align-items: center;
     color: ${colors.black};
-    background-color: ${colors.background};
+    background-color: #fff;
   }
 
   #app,
