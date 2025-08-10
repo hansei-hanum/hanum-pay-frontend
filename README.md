@@ -16,3 +16,16 @@ $ pnpm run dev
 $ pnpm run build
 $ pnpm run preview
 ```
+
+```cmd
+git clone https://github.com/hansei-hanum/hanum-pay-frontend.git
+cd hanum-pay-frontend
+pnpm install
+
+# development
+pnpm run dev
+
+# production
+pnpm run build
+pnpm run preview
+```
